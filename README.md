@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>🌱 I’m currently learning django <br>⚡ Jr.Front-end Developer
+<br>🌱 I’m currently learning django <br>⚡ Jr.Web Developer
 
 
 ## 🌐 Socials:

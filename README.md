@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>🌱 I’m currently working on <br>⚡ Jr.Web Developer
+<br>🌱 I’m currently working on Django <br>⚡ Jr.Web Developer
 
 
 ## 🌐 Socials:

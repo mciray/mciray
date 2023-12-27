@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-🔭 I’m currently working on Django<br>
+🔭 I’m currently working on Python <br>
 
 
 ## 🌐 Socials:

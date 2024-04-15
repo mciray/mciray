@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-🔭 I’m currently working on Python <br>
+🔭 I’m currently learning artificial intelligence <br>
 
 
 ## 🌐 Socials:

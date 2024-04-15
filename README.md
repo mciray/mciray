@@ -1,8 +1,4 @@
 
-# 💫 About Me:
-🔭 I’m currently learning artificial intelligence <br>
-
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/melihcray) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://tr.linkedin.com/in/melih-ciray-71a97b20a) 
 

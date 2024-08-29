@@ -18,6 +18,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=mciray&limit=5&theme=onedark&combine_all_yearly_contributions=true)
 
 
-
+![Snake animation](https://github.com/mciray/mciray/blob/main/assets/github-contribution-grid-snake.svg)
 ---
 [![](https://visitcount.itsvg.in/api?id=mciray&icon=2&color=12)](https://visitcount.itsvg.in)

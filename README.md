@@ -1,5 +1,6 @@
 <h2 align="left">Hi 👋! My name is Melih and I'm a Software Developer from Türkiye</h2>
-
+<h4 align="left">Currenly working on Ruby on Rails 👨‍💻</h4>
+ 
 ###
 
 <img align="right" height="150" src="https://gist.githubusercontent.com/vininjr/d29bb07bdadb41e4b0923bc8fa748b1a/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif"  />

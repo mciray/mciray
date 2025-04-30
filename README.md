@@ -1,5 +1,5 @@
 <h2 align="left">Hi 👋! My name is Melih and I'm a Software Developer from Türkiye</h2>
-<h4 align="left">Currenly working on Ruby on Rails 👨‍💻</h4>
+<h4 align="left">Currenly working on machine learning 👩‍💻 </h4>
  
 ###
 
